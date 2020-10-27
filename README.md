@@ -10,11 +10,11 @@
 
 <img src="ss/ss1.PNG" width="30%"><img src="ss/ss2.PNG" width="30%">
 <img src="ss/ss3.PNG" width="30%"><img src="ss/ss3.PNG" width="30%">
-<img src="ss/ss5.png" width="30%"><img src="ss/ss5.png" width="30%">
-<img src="ss/ss7.png" width="30%"><img src="ss/ss7.png" width="30%">
-<img src="ss/ss9.png" width="30%"><img src="ss/ss10.png" width="30%">
-<img src="ss/ss11.png" width="30%"><img src="ss/ss11.png" width="30%">
-<img src="ss/ss12.png" width="30%"><img src="ss/ss12.png" width="30%">
+<img src="ss/ss5.PNG" width="30%"><img src="ss/ss5.PNG" width="30%">
+<img src="ss/ss7.PNG" width="30%"><img src="ss/ss7.PNG" width="30%">
+<img src="ss/ss9.PNG" width="30%"><img src="ss/ss10.PNG" width="30%">
+<img src="ss/ss11.PNG" width="30%"><img src="ss/ss11.PNG" width="30%">
+<img src="ss/ss12.PNG" width="30%"><img src="ss/ss12.PNG" width="30%">
 
 
 ## Getting Started
